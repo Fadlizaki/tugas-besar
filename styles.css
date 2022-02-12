@@ -1,0 +1,30 @@
+.jumbotron{
+    background-image: url('img/patrick-tomasso-GXXYkSwndP4-unsplash.jpg');
+    background-attachment: fixed;
+    color: white;
+    background-size: cover;
+    background-position: 0 -50px;
+    height: 450px;
+    padding-top: 5rem;
+    text-shadow: 100px;
+}
+section{
+    padding-top: 5rem;
+}
+
+#Menu{
+    background-color:rgb(128,128,128);
+    background-size: cover;
+    background-attachment: fixed;
+}
+#Galeri{
+    background-image: url();
+    background-size: cover;
+    background-attachment: fixed;
+}
+#about{
+    background-color:rgb(128,128,128) ;
+}
+h2{
+    color: rgb(0, 0, 0);
+}
